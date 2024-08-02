@@ -73,10 +73,10 @@
                     "status":1
                 }
             ],
-            "status":0,
+            "status":1,
             "extra_ad_name":"",
-            "delay_time":120,
-            "period_time":125
+            "delay_time":80,
+            "period_time":85
         },
         {
             "name":"intervalmainmenu",
