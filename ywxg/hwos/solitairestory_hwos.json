@@ -152,7 +152,7 @@
             "status":1,
             "extra_ad_name":"",
             "delay_time":0,
-            "period_time":0
+            "period_time":80
         },
         {
             "name":"interval04",
@@ -190,7 +190,7 @@
             "status":1,
             "extra_ad_name":"",
             "delay_time":0,
-            "period_time":0
+            "period_time":80
         },
         {
             "name":"intervalexitgame",
