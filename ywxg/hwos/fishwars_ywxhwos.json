@@ -73,7 +73,7 @@
                     "status":1
                 }
             ],
-            "status":1,
+            "status":0,
             "extra_ad_name":"",
             "delay_time":60,
             "period_time":65
@@ -113,8 +113,8 @@
             ],
             "status":1,
             "extra_ad_name":"",
-            "delay_time":0,
-            "period_time":0
+            "delay_time":60,
+            "period_time":60
         },
         {
             "name":"interval02",
@@ -263,7 +263,7 @@
                     "status":1
                 }
             ],
-            "status":1,
+            "status":0,
             "extra_ad_name":"",
             "delay_time":0,
             "period_time":0
@@ -282,7 +282,7 @@
                     "status":1
                 }
             ],
-            "status":1,
+            "status":0,
             "extra_ad_name":"",
             "delay_time":0,
             "period_time":0
@@ -301,7 +301,7 @@
                     "status":1
                 }
             ],
-            "status":1,
+            "status":0,
             "extra_ad_name":"",
             "delay_time":0,
             "period_time":0
